@@ -1,2 +1,2 @@
 # Cybersecurity-journey
-My cyber security learning noter and progress 
+My cyber security learning notes and progress 
